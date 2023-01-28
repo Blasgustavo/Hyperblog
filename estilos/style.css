@@ -1,20 +1,23 @@
 html  {
-    font: normal 13px arial,helvetica,sans-serif;
+    font: normal 13px;
     }
      
   h1  {
     text-align: center;
     color: #987;
+    font-family: Arial;
     }
      
   h2  {
     text-align: center;
     color: #777;
+    font-family: Arial;
     }
    
   ul {
     list-style: circle;
     color: #888;
+    margin-top: 10px;
     }
      
   ul li a {
@@ -38,6 +41,7 @@ html  {
     position: absolute;
     left: 30px;
     top: 80px;
+    background-color: aquamarine;
     width: 150px;
     height: 350px;
   }
