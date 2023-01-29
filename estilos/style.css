@@ -1,15 +1,15 @@
 html  {
-    font: normal 13px arial,helvetica,sans-serif;
+    font: normal 13px arial;
     }
      
   h1  {
     text-align: center;
-    color: #987;
+    color: black;
     }
      
   h2  {
     text-align: center;
-    color: #777;
+    color: red;
     }
    
   ul {
