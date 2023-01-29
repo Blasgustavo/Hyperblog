@@ -4,14 +4,12 @@ html  {
      
   h1  {
     text-align: center;
-    color: #987;
-    font-family: Arial;
+    color: black;
     }
      
   h2  {
     text-align: center;
-    color: #777;
-    font-family: Arial;
+    color: red;
     }
    
   ul {
