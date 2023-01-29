@@ -1,2 +1,2 @@
 # Hyperblog
-Un hyperblog de mi biografía
+Un blog increible de mi biografía
